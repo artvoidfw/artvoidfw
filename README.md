@@ -1,7 +1,3 @@
-
-(![MasterHead](https://media.licdn.com/dms/image/D4D16AQ6S792jt8QK/profile-displaybackgroundimage-shrink_350_1400/0/1674153276810?e=1687996080&v=beta&t=kB8lxjS0xtL14y1KhyCmS6nE82-40PQAhLPzqqIzks)
-)
-
 <h1 align="center">Hi 👋, I'm ArtVoid</h1>
 <h3 align="center">A passionate FullStack web developer</h3>
 
