@@ -1,5 +1,5 @@
-<h2>Hi i am Vüsal!</h2>
-<h3>I am a student who likes to code websites, bots and other things</h3>
+<h2>Hi i am ArtVoid!</h2>
+<h3>I FullStack web developer</h3>
 
 ### Technologies I use
 ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
@@ -19,12 +19,17 @@
 
 ### Stats
 
-[![Vusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=artvoidfw&show_icons=true&theme=radical)](https://artvoid.vercel.app/github)
+<p>
+  <img align="center" style="background-color: black;" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=artvoidfw&theme=tokyonight" 
+       alt="artvoidfw" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artvoidfw&layout=compact&theme=radical)](https://artvoid.vercel.app/instagram)
+[![Artvoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=artvoidfw&show_icons=true&theme=tokyonight)](https://artvoid.vercel.app/github)
 
-[![visits](https://komarev.com/ghpvc/?username=artvoidfw)](https://artvoid.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artvoidfw&layout=compact&theme=tokyonight)](https://artvoid.vercel.app/instagram)
 
 <h3>Links:</h3>
+<a href="https://artvoid.vercel.app/"><img src="https://pbs.twimg.com/media/El6GlYGU4AE2N7l.jpg" style="width: 120px; border-radius: 50%; margin: 10px 0;" alt="profile picture" /></a>
+<h4>:Personal site</h4>
 
-<a href="https://artvoid.vercel.app/">Personal Site</a>
