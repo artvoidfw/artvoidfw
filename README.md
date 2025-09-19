@@ -37,6 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artvoidfw&layout=compact&theme=tokyonight)](https://artvoid.vercel.app/instagram)
 
 <h3>Links:</h3>
-<a href="https://artvoid.vercel.app/"><img src="https://pbs.twimg.com/media/El6GlYGU4AE2N7l.jpg" style="width: 120px; border-radius: 50%; margin: 10px 0;" alt="profile picture" /></a>
+<a href="https://voidw.vercel.app/"><img src="https://pbs.twimg.com/media/El6GlYGU4AE2N7l.jpg" style="width: 120px; border-radius: 50%; margin: 10px 0;" alt="profile picture" /></a>
 <h4>:Personal site</h4>
 
